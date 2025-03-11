@@ -24,6 +24,39 @@
         }
       ],
       "uuid": "3f3099f6-8809-4c9e-98c6-5655e411a30f"
+    },
+    {
+      "start_time": 34,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "gsfdgaedfg dfg "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bishop laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Audience laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Punctuation",
+          "category": "Notes"
+        }
+      ],
+      "uuid": "28ff5020-328c-486a-a31d-494aec70eb4b"
     }
   ],
   "event_id": "e7ad1a2b-d4fe-4455-b0fc-4a2db270476c",
