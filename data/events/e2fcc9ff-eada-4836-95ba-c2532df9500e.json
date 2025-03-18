@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "7ff528f1-e040-4143-a37a-abfbd43ddf39": {
+      "label": "Bishop Moose 78",
+      "is_offline": false,
+      "file_url": "https://library.harvard.edu/sites/default/files/static/poetry/audio/listeningbooth/PS3503I785A6x1978/10_the_moose.mp3",
+      "duration": 442
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "https://library.harvard.edu/sites/default/files/static/poetry/listeningbooth/poets/bishop.html",
+  "item_type": "Audio",
+  "label": "Elizabeth Bishop reading her poem, \"The Moose\"",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth Bishop read this poem at the Remembering Robert Lowell event in 1978."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-18T14:14:26.193Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-03-18T14:14:26.193Z",
+  "updated_by": "SteveMarvin"
+}
