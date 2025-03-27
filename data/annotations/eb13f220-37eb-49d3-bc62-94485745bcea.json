@@ -185,6 +185,22 @@
         }
       ],
       "uuid": "898c9936-47c8-4ae8-965b-de3760c4bc70"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "fasdf"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "36f6f7e9-ede5-4873-bf06-6c014fd66e40"
     }
   ],
   "set": "Default",
