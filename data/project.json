@@ -30,6 +30,10 @@
         {
           "category": "Notes",
           "color": "#99E6FF"
+        },
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
         }
       ],
       "tags": [
@@ -112,6 +116,6 @@
       ]
     },
     "created_at": "2025-03-11T15:59:25.272Z",
-    "updated_at": "2025-03-27T14:43:09.099Z"
+    "updated_at": "2025-03-27T14:59:51.435Z"
   }
 }
